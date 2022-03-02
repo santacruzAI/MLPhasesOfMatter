@@ -1,29 +1,29 @@
 # Machine Learning Phases of Matter (Carasquilla, Meiko) - Implementation/Extensions 
-**[Giridhar Vadhul (Advanced Track), Pranav Vempati (SCAI President)]**
+## **[Giridhar Vadhul (Advanced Track), Pranav Vempati (SCAI President)]**
 
 _This Github Repository implements Juan Carasquilla and Roger Melko's 2016 Paper, Machine Learning Phases of Matter (https://arxiv.org/abs/1605.01735)._
 
-**Visualizations:**
+## **Visualizations:**
 
 We implement the Metropolis-Hastings algorithm to simulate 4 Ising Models, namely the Square/Triangular Lattices, Square Ice Lattice and an Ising Gauge Theory-based Lattice. The visualizations of these evolution processes are given below:
 
-**Square Lattice:**
+### **Square Lattice:**
     
     High Temperature Simulation:
     
     Low Temperature Simulation: 
 
-**Triangular Lattice:**
+### **Triangular Lattice:**
   
   High Temperature Simulation:
     
   Low Temperature Simulation:
 
-**Topological Phases:**
+### **Topological Phases:**
 
-**Square Ice Lattice:**
+### **Square Ice Lattice:**
 
-**Implementation:**
+## **Implementation:**
 
 Further, we train a Feedforward Neural Network to classify the phases of sample square lattices upto 99.4% test accuracy. This is surprising achievement in itself, given that, as visible in the visualizations, the difference between high and low temperature lattices is very subtle and not humanly-visible. 
 
@@ -35,7 +35,7 @@ We further implement a feedforward neural network and show that it performs near
 
 Finally, we intend to synthesize Square Ice Lattices and demonstrate that a Feedforward Neural Network performs highly here, and then work on further extensions to this approach to generalize well across diverse lattices.
 
-**References:**
+## **References:**
 
 Paper: arXiv:1605.01735 [cond-mat.str-el]
 
