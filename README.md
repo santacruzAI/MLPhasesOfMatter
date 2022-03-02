@@ -19,18 +19,6 @@ Finally, we intend to synthesize Square Ice Lattices and demonstrate that a Feed
 
 References:
 
-Paper: @article{2017,
-   title={Machine learning phases of matter},
-   volume={13},
-   ISSN={1745-2481},
-   url={http://dx.doi.org/10.1038/nphys4035},
-   DOI={10.1038/nphys4035},
-   number={5},
-   journal={Nature Physics},
-   publisher={Springer Science and Business Media LLC},
-   author={Carrasquilla, Juan and Melko, Roger G.},
-   year={2017},
-   month={Feb},
-   pages={431–434} }
+Paper: arXiv:1605.01735 [cond-mat.str-el]
 
 Special Thanks to jsr66's repository: https://github.com/jsr66/Machine-Learning-Phases-of-Matter-with-Discriminative-Localization, which implements part of this paper, and inspired our approach to the Metropolis-Hastings simulation.
