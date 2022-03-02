@@ -16,3 +16,21 @@ The Ising Gauge Theory-based Lattice is a Topological Phase of Matter and natura
 We further implement a feedforward neural network and show that it performs near chance on the Topological Phase. As a result, we then show that a Convolutional Neural Network achieves close to 100% test accuracy. (IN PROGRESS)
 
 Finally, we intend to synthesize Square Ice Lattices and demonstrate that a Feedforward Neural Network performs highly here, and then work on further extensions to this approach to generalize well across diverse lattices.
+
+References:
+
+Paper: @article{2017,
+   title={Machine learning phases of matter},
+   volume={13},
+   ISSN={1745-2481},
+   url={http://dx.doi.org/10.1038/nphys4035},
+   DOI={10.1038/nphys4035},
+   number={5},
+   journal={Nature Physics},
+   publisher={Springer Science and Business Media LLC},
+   author={Carrasquilla, Juan and Melko, Roger G.},
+   year={2017},
+   month={Feb},
+   pages={431–434} }
+
+Special Thanks to jsr66's repository: https://github.com/jsr66/Machine-Learning-Phases-of-Matter-with-Discriminative-Localization, which implements part of this paper, and inspired our approach to the Metropolis-Hastings simulation.
