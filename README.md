@@ -15,4 +15,4 @@ The Ising Gauge Theory-based Lattice is a Topological Phase of Matter and natura
 
 We further implement a feedforward neural network and show that it performs near chance on the Topological Phase. As a result, we then show that a Convolutional Neural Network achieves close to 100% test accuracy. (IN PROGRESS)
 
-Finally, we intend to synthesize Square Ice Lattices and demonstrate that a Feedforward Neural Network performs highly here.
+Finally, we intend to synthesize Square Ice Lattices and demonstrate that a Feedforward Neural Network performs highly here, and then work on further extensions to this approach to generalize well across diverse lattices.
