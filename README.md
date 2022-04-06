@@ -39,4 +39,6 @@ Finally, we intend to synthesize Square Ice Lattices and demonstrate that a Feed
 
 Paper: arXiv:1605.01735 [cond-mat.str-el]
 
-Special Thanks to jsr66's repository: https://github.com/jsr66/Machine-Learning-Phases-of-Matter-with-Discriminative-Localization, which implements part of this paper, and inspired our approach to the Metropolis-Hastings simulation, Mr.P Solver's tutorial on simulating the Ising Model in Python: https://www.youtube.com/watch?v=K--1hlv9yv0 which inspired our approach to function formatting.
+Special Thanks to jsr66's repository: https://github.com/jsr66/Machine-Learning-Phases-of-Matter-with-Discriminative-Localization, which implements part of this paper, and inspired our approach to the Metropolis-Hastings simulation, Mr.P Solver's tutorial on simulating the Ising Model in Python: https://www.youtube.com/watch?v=K--1hlv9yv0 which inspired our approach to function formatting. 
+
+A particularly helpful resource with respect to the Ising Model was the following: https://stanford.edu/~jeffjar/statmech/intro4.html
