@@ -25,7 +25,7 @@ We implement the Metropolis-Hastings algorithm to simulate 4 Ising Models, namel
 
 ## **Implementation:**
 
-Further, we train a Feedforward Neural Network to classify the phases of sample square lattices upto 99.4% test accuracy. This is surprising achievement in itself, given that, as visible in the visualizations, the difference between high and low temperature lattices is very subtle and not humanly-visible. 
+Further, we train a Feedforward Neural Network to classify the phases of sample square lattices. This is surprising achievement in itself, given that, as visible in the visualizations, the difference between high and low temperature lattices is very subtle and not humanly-visible. 
 
 We then devise a method to simulate Triangular Lattices. After various experiments with methods of blocking out parts of square lattices to generate a triangular shape, but eventually decided to simulate this through a visualization technique that shifts lattice rows. We further show that this network generalizes with high accuracy to a triangular lattice with a different Hamiltonian. (IN PROGRESS)
 
@@ -39,6 +39,8 @@ Finally, we intend to synthesize Square Ice Lattices and demonstrate that a Feed
 
 Paper: arXiv:1605.01735 [cond-mat.str-el]
 
-Special Thanks to jsr66's repository: https://github.com/jsr66/Machine-Learning-Phases-of-Matter-with-Discriminative-Localization, which implements part of this paper, and inspired our approach to the Metropolis-Hastings simulation, Mr.P Solver's tutorial on simulating the Ising Model in Python: https://www.youtube.com/watch?v=K--1hlv9yv0 which inspired our approach to function formatting. 
+Special Thanks to jsr66's repository: https://github.com/jsr66/Machine-Learning-Phases-of-Matter-with-Discriminative-Localization, which implements part of this paper, and inspired our approach to the Metropolis-Hastings simulation and to Mr.P Solver's tutorial on simulating the Ising Model in Python: https://www.youtube.com/watch?v=K--1hlv9yv0 which inspired our approach to function formatting in our data generation process. 
+
+SCAI Tutorial Notebook on Deep Neural Networks in PyTorch: Basis of constructed NN models.
 
 A particularly helpful resource with respect to the Ising Model was the following: https://stanford.edu/~jeffjar/statmech/intro4.html
