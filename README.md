@@ -44,3 +44,6 @@ Special Thanks to jsr66's repository: https://github.com/jsr66/Machine-Learning-
 SCAI Tutorial Notebook on Deep Neural Networks in PyTorch: Basis of constructed NN models.
 
 A particularly helpful resource with respect to the Ising Model was the following: https://stanford.edu/~jeffjar/statmech/intro4.html
+
+The Hamiltonian for the triangular lattices is implemented as formulated herein: https://www.publish.csiro.au/ph/pdf/PH740357
+
