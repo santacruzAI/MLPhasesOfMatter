@@ -3,7 +3,7 @@
 
 _This Github Repository implements Juan Carasquilla and Roger Melko's 2016 Paper, 'Machine Learning Phases of Matter' (https://arxiv.org/abs/1605.01735)._
 
-## **Visualizations:**
+## **Visualizations:** (*Ongoing*)
 
 We implement the Metropolis-Hastings algorithm to simulate 4 Ising Models, namely the Square/Triangular Lattices, Square Ice Lattice and an Ising Gauge Theory-based Lattice. The visualizations of these evolution processes are given below:
 
