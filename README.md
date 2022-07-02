@@ -17,6 +17,8 @@ The Ising Gauge Theory-based Lattice is a Topological Phase of Matter and natura
 
 We further implement a feedforward neural network and show that it performs near chance on the Topological Phase. As a result, we then show that a Convolutional Neural Network achieves high accuracy.
 
+In addition to the above, we implement the Toy Models found in Appendices A and C respectively. In the former case, we validate the paper's premise that a neural network can both effectively encode and learn the magnetization of Ising Model configurations.  
+
 Finally, we intend to synthesize Square Ice Lattices and demonstrate that a Feedforward Neural Network performs highly here, and then work on further extensions to this approach to generalize well across diverse lattices.
 
 ## **References:**
