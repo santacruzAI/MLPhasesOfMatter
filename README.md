@@ -21,6 +21,12 @@ In addition to the above, we implement the Toy Models found in Appendices A and 
 
 Finally, we intend to synthesize Square Ice Lattices and demonstrate that a Feedforward Neural Network performs highly here, and then work on further extensions to this approach to generalize well across diverse lattices.
 
+## **Understanding the data:**
+
+In the process of implementing Appendix B, the clusters present in Appendix A's training data(and the associate decision boundary) is visualized by means of T-SNE in 2 dimensions. We employ sklearn.manifold's TSNE in conjunction with pyplot.scatter for this task. 
+
+
+
 ## **References:**
 
 Paper: arXiv:1605.01735 [cond-mat.str-el]
@@ -34,3 +40,5 @@ SCAI Tutorial Notebook on Deep Neural Networks in PyTorch: Basis of constructed 
 A particularly helpful resource with respect to the Ising Model was the following: https://stanford.edu/~jeffjar/statmech/intro4.html
 
 The Hamiltonian for the triangular lattices is implemented as formulated herein: https://www.publish.csiro.au/ph/pdf/PH740357
+
+
