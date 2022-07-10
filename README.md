@@ -23,7 +23,7 @@ Finally, we intend to synthesize Square Ice Lattices and demonstrate that a Feed
 
 ## **Understanding the data:**
 
-In the process of implementing Appendix B, the clusters present in Appendix A's training data(and the associate decision boundary) is visualized by means of T-SNE in 2 dimensions. We employ sklearn.manifold's TSNE in conjunction with pyplot.scatter for this task. 
+In the process of implementing Appendix B, the high-dimensional clusters present in Appendix A's training data(and the associate decision boundary) is visualized by means of T-SNE in 2 dimensions. We employ sklearn.manifold's TSNE in conjunction with pyplot.scatter for this task. 
 
 
 
