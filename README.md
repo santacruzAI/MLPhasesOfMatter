@@ -1,4 +1,4 @@
-# Machine Learning Phases of Matter (Carasquilla, Meiko) - Implementation/Extensions 
+# Machine Learning Phases of Matter (Carasquilla, Melko) - Implementation/Extensions 
 ## **Giridhar Vadhul (Advanced Track), Pranav Vempati (SCAI President)**
 
 _This Github Repository implements Juan Carasquilla and Roger Melko's 2016 Paper, 'Machine Learning Phases of Matter' (https://arxiv.org/abs/1605.01735)._
